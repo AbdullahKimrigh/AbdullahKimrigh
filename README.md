@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Abdullah M. Kimrigh<br><br>- 🔭 I’m working as System Analyst<br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I work as freelancer</p>
+<p align="left">I'm Abdullah M. Kimrigh<br><br>- 🔭 I’m specialist as Systems Analyst<br>- </p>
 
 ###
 
