@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Abdullah M. Kimrigh<br><br>- 🔭 I’m specialist as Systems Analyst</p>
+<p align="left">I'm Abdullah M. Kimrigh<br> 🔭 Systems Analyst specialist</p>
 
 ###
 
