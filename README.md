@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻 I'm Abdullha M. Kimrigh</h3>
+<h3 align="left">👩‍💻 I'm Abdullah M. Kimrigh</h3>
 
 ###
 
-<p align="left">🔭 Systems Analyst specialist</p>
+<p align="left">🔭 Information specialist</p>
 
 ###
 
